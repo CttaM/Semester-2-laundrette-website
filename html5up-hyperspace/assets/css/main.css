@@ -212,6 +212,13 @@ input, select, textarea {
 		margin: 0 0 0.5em 0;
 	}
 
+	h3{
+		color: #ffffff;
+		font-weight: bold;
+		line-height: 1.5;
+		margin: 0 0 0.5em 0;
+	}
+
 	#reserve-machine-header{
 		color: #2596be;
 		font-weight: bold;
